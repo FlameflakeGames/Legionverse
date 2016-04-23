@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Random Tests #1 (Power Management and Devices)\Assets\FirstPersonController.cs">
+    <Files>
+      <File FileName="..\Random Tests #1 (Power Management and Devices)\Assets\ShipScript.cs" Line="135" Column="9" />
+      <File FileName="..\Random Tests #1 (Power Management and Devices)\Assets\FirstPersonController.cs" Line="35" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
